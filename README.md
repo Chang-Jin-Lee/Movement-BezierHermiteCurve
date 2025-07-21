@@ -1,8 +1,16 @@
 # Shooter-BezierHermiteCurve
 Shooter Game Using BezierCurve, HermiteCurve, Catmull-Rom Spline
-Unity 기반의 2D 슈터 미니게임입니다. 
-다양한 곡선 수학 기법을 활용하여 오브젝트 이동과 탄환 궤적을 구현했습니다.
+Unity 2D 미니게임입니다. 
+베지에 커브와 캣멀롬 스플라인을 활용하여 오브젝트 이동을 구현했습니다.
 장애물을 피해 목표물에 도착해야합니다.
+
+
+
+<div align="center">
+
+ ![2025-07-2115-05-15-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f4c980de-3461-4dac-b90a-fbe90b4c429f)
+
+</div>
 
 ---
 
